@@ -1,0 +1,61 @@
+{
+  "ticker": "ACE",
+  "data": [
+    {
+      "quarter": "Q3 2015",
+      "income status": {
+        "Net sales": 55888,
+        "Cost of goods sold": 43428,
+        "Gross Profit": 12460,
+        "Financial expenses": 437,
+        "Of which: Interest expense": 122,
+        "Cost of sales": 1911,
+        "Enterprise cost management": 3552,
+        "Total Operating Expenses": 5900,
+        "Total revenue financing activities": 51,
+        "Net profit from business activities": 6610,
+        "Profit": -100,
+        "Profit before tax": 6510,
+        "Present corporate income tax expenses": 1000,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 1000,
+        "Profit after tax corporate income": 5510,
+        "Volume": 3050781,
+        "Close of Quarter": 13.6,
+        "EPS": 5482,
+        "Non-adjusted EPS": 5482,
+        "PE": 2.5,
+        "Book Price": 20
+      }
+    },
+    {
+      "quarter": "Q3 2014",
+      "income status": {
+        "Net sales": 70773,
+        "Cost of goods sold": 55816,
+        "Gross Profit": 14957,
+        "Financial expenses": 771,
+        "Of which: Interest expense": 628,
+        "Cost of sales": 1587,
+        "Enterprise cost management": 5914,
+        "Total Operating Expenses": 8272,
+        "Total revenue financing activities": 209,
+        "Net profit from business activities": 6894,
+        "Profit": -28,
+        "Profit before tax": 6866,
+        "Present corporate income tax expenses": 996,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 996,
+        "Profit after tax corporate income": 5870,
+        "Volume": 2652910,
+        "Close of Quarter": 12.5,
+        "EPS": 3675.7,
+        "Non-adjusted EPS": 4227,
+        "PE": 3.0,
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

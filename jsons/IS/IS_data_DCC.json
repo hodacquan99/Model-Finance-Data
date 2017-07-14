@@ -1,0 +1,61 @@
+{
+  "ticker": "DCC",
+  "data": [
+    {
+      "quarter": "Q2 2011",
+      "income status": {
+        "Net sales": 83200,
+        "Cost of goods sold": 83285,
+        "Gross Profit": -85,
+        "Financial expenses": 1602,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 4290,
+        "Total Operating Expenses": 5892,
+        "Total revenue financing activities": 583,
+        "Net profit from business activities": -5395,
+        "Profit": 459,
+        "Profit before tax": -4936,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": -56,
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": -56,
+        "Profit after tax corporate income": -4879,
+        "Volume": 10300000,
+        "Close of Quarter": 17.9,
+        "EPS": -1500,
+        "Non-adjusted EPS": -1500,
+        "PE": -11.9,
+        "Book Price": 16.7
+      }
+    },
+    {
+      "quarter": "Q1 2011",
+      "income status": {
+        "Net sales": 78821,
+        "Cost of goods sold": 79588,
+        "Gross Profit": -767,
+        "Financial expenses": 2200,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 4262,
+        "Total Operating Expenses": 6462,
+        "Total revenue financing activities": 771,
+        "Net profit from business activities": -6458,
+        "Profit": -211,
+        "Profit before tax": -6669,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": -56,
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": -56,
+        "Profit after tax corporate income": -6613,
+        "Volume": 10300000,
+        "Close of Quarter": 26,
+        "EPS": -762,
+        "Non-adjusted EPS": -762,
+        "PE": -34.1,
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

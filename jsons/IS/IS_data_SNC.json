@@ -1,0 +1,61 @@
+{
+  "ticker": "SNC",
+  "data": [
+    {
+      "quarter": "Q3 2014",
+      "income status": {
+        "Net sales": 257989,
+        "Cost of goods sold": 227058,
+        "Gross Profit": 30931,
+        "Financial expenses": 2307,
+        "Of which: Interest expense": 1381,
+        "Cost of sales": 7775,
+        "Enterprise cost management": 2543,
+        "Total Operating Expenses": 12625,
+        "Total revenue financing activities": 328,
+        "Net profit from business activities": 18634,
+        "Profit": 11,
+        "Profit before tax": 18645,
+        "Present corporate income tax expenses": 4102,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 4102,
+        "Profit after tax corporate income": 14543,
+        "Volume": 5000000,
+        "Close of Quarter": "N/A",
+        "EPS": 3430,
+        "Non-adjusted EPS": 3430,
+        "PE": "N/A",
+        "Book Price": 17.9
+      }
+    },
+    {
+      "quarter": "Q3 2013",
+      "income status": {
+        "Net sales": 191129,
+        "Cost of goods sold": 181944,
+        "Gross Profit": 9186,
+        "Financial expenses": 1894,
+        "Of which: Interest expense": 1150,
+        "Cost of sales": 5503,
+        "Enterprise cost management": 1829,
+        "Total Operating Expenses": 9226,
+        "Total revenue financing activities": 1367,
+        "Net profit from business activities": 1328,
+        "Profit": 314,
+        "Profit before tax": 1642,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 1642,
+        "Volume": 5000000,
+        "Close of Quarter": "N/A",
+        "EPS": 962,
+        "Non-adjusted EPS": 962,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}
